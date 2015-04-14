@@ -35,9 +35,9 @@ $(document).ready(function() {
 
 	$("#red").click(function(){
 		alert("How dare you.");
-	});
+	})
 	$("#green").hide(4000);
-	
+
 	$("#yellow").mouseenter(function(){
 		$("#yellow").animate({opacity: .2});
 		console.log("Mouse is in");
