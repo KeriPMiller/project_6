@@ -1,0 +1,26 @@
+
+div {
+	position: relative;
+	float: left;
+	border-radius: 5px;
+	width: 200px;
+	height: 200px;
+	margin: 10px;
+}
+#blue {
+	background-color: #003366;
+}
+
+#red  {
+	background-color: #990000;
+	color: white;
+	font-family: monospace;
+}
+
+#green  {
+	background-color: #669966;
+}
+
+#yellow {
+	background-color: #f4b400;
+}
